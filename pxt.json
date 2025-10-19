@@ -1,0 +1,7 @@
+{
+  "name": "retro-voice",
+  "description": "Retro speech synthesis with pitch control and syllable tuning",
+  "dependencies": {},
+  "files": ["main.ts"],
+  "preferredEditor": "tsprj"
+}

@@ -1,4 +1,3 @@
-
 # Retro Voice Extension for micro:bit
 
 This MakeCode extension adds two blocks:
